@@ -8,9 +8,9 @@
 
 ## 中文版本
 
-* [百度](https://github.com/fex-team/styleguide)
+* [百度-FEX](https://github.com/fex-team/styleguide)
 
-* [AlloyTeam](https://github.com/AlloyTeam/CodeGuide)
+* [腾讯-AlloyTeam](https://github.com/AlloyTeam/CodeGuide)
 
 * [网易](http://nec.netease.com/standard)
 
