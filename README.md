@@ -22,9 +22,15 @@
 
 - [SUITCSS](https://github.com/suitcss/suit)
 
-- [BEM](https://github.com/getbem/getbem.com)
+- [BEM](https://github.com/getbem/getbem.com) **Strongly recommended!**
 
 - [SMACSS](https://smacss.com/)
+
+#### JS
+
+- [ESLint](https://eslint.org/) **Strongly recommended!**
+
+- [jsdoc](https://github.com/jsdoc3/jsdoc) **Strongly recommended!**
 
 ## 中文
 
